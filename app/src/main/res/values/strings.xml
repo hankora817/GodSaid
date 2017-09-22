@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">성경톡톡</string>
+    <!-- main ad -->
+    <string name="banner_ad_unit_id">ca-app-pub-9235263826870054/8662445328</string>
+    <string name="banner_ad_unit_id_front">ca-app-pub-9235263826870054/5529118125</string>
+    <!-- list ad -->
+    <string name="banner_list_unit_id">ca-app-pub-9235263826870054/4622305729</string>
+    <!-- quiz ad -->
+    <string name="banner_quiz_unit_id">ca-app-pub-9235263826870054/7575772125</string>
+    <!-- score ad -->
+    <string name="banner_score_unit_id">ca-app-pub-9235263826870054/9052505322</string>
+
+    <!--kakao_app -->
+    <string name="kakao_app_key" translatable="false">df4c0c83ce365b759ae24ae0887dc50f</string>
+    <string name="kakao_scheme" translatable="false">kakaodf4c0c83ce365b759ae24ae0887dc50f</string>
+    <string name="kakaolink_host">kakaolink</string>
+
+    <string name="text_share">공유</string>
+    <string name="text_my_talk_talk">말씀톡톡</string>
+    <string name="text_quiz_talk_talk">퀴즈톡톡</string>
+    <string name="text_score_talk_talk">내 점수 톡톡</string>
+    <string name="text_graph_talk_talk">그래프 톡톡</string>
+    <string name="text_i_founded">내가 찾은 주님의 말씀</string>
+    <string name="text_result_o">딩동댕</string>
+    <string name="text_result_x">땡</string>
+    <string name="text_quiz">문제 :</string>
+    <string name="text_correct">정답 :</string>
+    <string name="text_your_score">내 점수는?</string>
+    <string name="text_month">년</string>
+    <string name="text_day">일</string>
+    <string name="text_quiz_oneday">퀴즈톡톡은 하루에 한번만 할 수 있어요</string>
+    <string name="text_no_data">퀴즈톡톡 기록이 없어요</string>
+    <string name="text_btn_next">다음</string>
+    <string name="text_btn_pre">이전</string>
+    <string name="text_kakao_share">카카오톡 공유</string>
+    <string name="text_share_score_front">내가 성경톡톡 퀴즈를</string>
+    <string name="text_share_score_end">점을 받았어요! 아자!아자!</string>
+    <string name="text_today_said_none">오늘의 말씀을 먼저 찾아보세요</string>
+    <string name="text_app_end_msg">성경톡톡을 종료하실건가요?</string>
+
+</resources>

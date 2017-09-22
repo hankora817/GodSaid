@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/menu/action_option.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/menu/action_option.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/menu/action_graph.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/menu/action_graph.xml"
+    }
+]

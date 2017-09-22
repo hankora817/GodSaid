@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/dialog_quiz_result.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/layout/dialog_quiz_result.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/view_score_list_item.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/layout/view_score_list_item.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/view_phrase_list_view.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/layout/view_phrase_list_view.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/kakao_internal_login_activity.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.kakao.sdk/util/1.1.10/res/layout/kakao_internal_login_activity.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/phrase_list_activity.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/layout/phrase_list_activity.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/phrase_popup.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/layout/phrase_popup.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/kakao_login_layout.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.kakao.sdk/util/1.1.10/res/layout/kakao_login_layout.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/activity_quiz_layout.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/layout/activity_quiz_layout.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/dialog_your_score.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/layout/dialog_your_score.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/activity_graph.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/layout/activity_graph.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/activity_score.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/layout/activity_score.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/phrase_activity.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/layout/phrase_activity.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/layout_main_ad.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/layout/layout_main_ad.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/godwidget.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/layout/godwidget.xml"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    }
+]

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sanghoon/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.0-beta1/54d65d51b5ebec588a19b2384efb6395b5bf5b18/MPAndroidChart-v3.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="54d65d51b5ebec588a19b2384efb6395b5bf5b18">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/MPAndroidChart-v3.0.0-beta1_4d84403e8e2750acae730567d54cddaadbca3641.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.4.0_05db5a7d365e1031e47ba8c6802b5084f598cf18.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.4.0_ec57a5505b7d3151ee851a91ad2ec51b032fe518.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.kakao.sdk/kakaolink/1.1.10/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d2b5b6d3db3539a5d2e146566580e7ebd476684d">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/com.kakao.sdk-kakaolink-1.1.10_30a369d681a2f0270602a8faa4e4f3ab4a00c87c.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-9.2.1_33d0a146ce5c4a9a0feeffe2ba492de0daaa4200.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.kakao.sdk/util/1.1.10/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3209fddd298c55f7c1526eeb83330eef6680d791">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/com.kakao.sdk-util-1.1.10_40c11aeff7e620d451c8ce4169c0d60207b2a62c.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-clearcut-9.2.1_68c091c7391f19ce93c58c60594c95b5f16acd85.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.4.0_f6d612bbc6b40cb033cf255e4838aad13b434d13.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_0d28769745c7291fbbc476419ccb35ceb2ba02f5.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-9.2.1_9b80077c6ac5826c0ea8dca721bd5eb86d48ca73.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.4.0_6dd290850a0f505130c664e12c39b79f305c18b1.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-lite-9.2.1_f6859ce5544dabb3ceeb7fd7052bd276fbe7d3a6.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-9.2.1_01362aed032c9346b12c1dc6c9769a5225655174.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-9.2.1_c699c168fc8d2c9dca616b86d50dfb649783d742.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gass-9.2.1_da7d269710ab6b8cc0d475b3636d80664260f683.jar" />
+    </item>
+    <item
+        jar="/Users/sanghoon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/sanghoon/android/GodSaid/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_c94cbc0cb3d57a336e73fb7ff48e6f37a1944de2.jar" />
+    </item>
+
+</items>

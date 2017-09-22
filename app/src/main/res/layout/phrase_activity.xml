@@ -1,0 +1,68 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                        android:id="@+id/drawer_layout"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent">
+
+    <!-- The main content view : Project List -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        >
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimary"
+            android:minHeight="?attr/actionBarSize"/>
+
+        <TextView
+            android:id="@+id/text_said"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="120dp"
+            android:gravity="center"
+            android:textColor="#ab6933"
+            android:textSize="30sp"
+            />
+
+        <TextView
+            android:id="@+id/text_which"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/text_said"
+            android:layout_below="@id/text_said"
+            android:layout_marginTop="30dp"
+            android:textColor="#ebc37a"
+            android:textSize="20sp"
+            />
+
+        <ImageView
+            android:id="@+id/btn_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/holy_book"
+            android:visibility="invisible"/>
+
+        <include
+            layout="@layout/layout_main_ad"
+            />
+
+    </RelativeLayout>
+
+    <!-- The navigation drawer : Menu List -->
+
+    <ListView
+        android:id="@+id/drawer_menu_list"
+        android:layout_width="200dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:background="#00a2ff"
+        android:choiceMode="singleChoice"/>
+</android.support.v4.widget.DrawerLayout>

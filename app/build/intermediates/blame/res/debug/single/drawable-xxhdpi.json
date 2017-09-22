@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/drawable-xxhdpi/kakaotalk_icon.png",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.kakao.sdk/util/1.1.10/res/drawable-xxhdpi/kakaotalk_icon.png"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_share.png",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/drawable-xxhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/drawable-xxhdpi/kakaoaccount_icon.png",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.kakao.sdk/util/1.1.10/res/drawable-xxhdpi/kakaoaccount_icon.png"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/drawable-xxhdpi/kakaostory_icon.png",
+        "source": "/Users/sanghoon/android/GodSaid/app/build/intermediates/exploded-aar/com.kakao.sdk/util/1.1.10/res/drawable-xxhdpi/kakaostory_icon.png"
+    }
+]

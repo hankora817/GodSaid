@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/hoon_launcher.png",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/drawable-xxxhdpi/hoon_launcher.png"
+    },
+    {
+        "merged": "/Users/sanghoon/android/GodSaid/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_talktalk.png",
+        "source": "/Users/sanghoon/android/GodSaid/app/src/main/res/drawable-xxxhdpi/ic_talktalk.png"
+    }
+]

@@ -1,0 +1,41 @@
+<resources>
+
+    <style name="Theme" parent="AppTheme"></style>
+
+    <style name="Theme.Transparent">
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+    </style>
+
+    <style name="Theme.Toast">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Toast</item>
+        <item name="android:windowBackground">@drawable/transparent_background</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorForeground">#C98AFF</item>
+    </style>
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+
+    -->
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">#303f9f</item>
+        <item name="colorAccent">#FF4081</item>
+    </style>
+
+    <style name="MainTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">#303f9f</item>
+        <item name="colorAccent">#FF4081</item>
+    </style>
+
+    <style name="LauncherTheme" parent="Theme.AppCompat">
+        <item name="android:background">@drawable/hoon_launcher</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>
